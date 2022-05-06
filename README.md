@@ -19,4 +19,7 @@ Alguns sites: https://htmlcolorcodes.com/color-names/ ; Para a utilização e es
 
  A IDE utilizada para a criação dos codigos, foi o Visual Studio Code.  
  
- Gostaria de agradecer a instituição da Digital Innovation One; https://www.linkedin.com/school/digitalinnovation-one/ e o Especialista e Instrutor; https://github.com/felipeAguiarCode.
+ Agradeço  Agradecer a Instituição da Digital Innovation One; https://www.linkedin.com/school/digitalinnovation-one/ o Especialista e Instrutor; https://github.com/felipeAguiarCode Obrigado!  
+ 
+ Bootcamp Carrefour.
+  
