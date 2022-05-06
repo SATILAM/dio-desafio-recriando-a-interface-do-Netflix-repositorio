@@ -2,7 +2,7 @@
 Desafio de Projeto Recriando a Interface do NETFLIX - clone- ASOMA FLIX _ kids
 
 Nesse projeto dio, recriação da interface do NETFLIX, foram utilizados alguns sites para pesquizas e utilização de algumas ferramentas fundamentais para a utilização desse projeto.
-utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto aprendemos sobre: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
+utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto aprendemos sobre: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery.
 
 Alguns sites: https://htmlcolorcodes.com/color-names/ ; Para a utilização e escolha de cores para seres usadas no código.
               https://getbootstrap.com/docs/5.1/components/navbar/ ; Para a documentação e exemplos responsivo de cabeçalho de navegação do Bootstrap, o navbar.
@@ -18,3 +18,5 @@ Alguns sites: https://htmlcolorcodes.com/color-names/ ; Para a utilização e es
               https://www.linkedin.com/in/atila-soares-mendonca/ , linkedin, utilizado no Botão "MAIS INFORMAÇÕES".
 
  A IDE utilizada para a criação dos codigos, foi o Visual Studio Code.  
+ 
+ Gostaria de agradecer a instituição da Digital Innovation One; https://www.linkedin.com/school/digitalinnovation-one/ e o Especialista e Instrutor; https://github.com/felipeAguiarCode.
