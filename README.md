@@ -37,3 +37,9 @@ https://www.linkedin.com/in/atila-soares-mendonca/ , linkedin, utilizado no Bot�
  Agradeço a Instituição da Digital Innovation One; https://www.linkedin.com/school/digitalinnovation-one/ o Especialista e Instrutor; https://github.com/felipeAguiarCode Obrigado!  
  
  Bootcamp Carrefour.
+
+
+
+
+
+![Capa Projeto NETFLIX](https://user-images.githubusercontent.com/101275634/169182621-96f77f07-a32d-4023-b611-52eddd3566dd.jpeg)
